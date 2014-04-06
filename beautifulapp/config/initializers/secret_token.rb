@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Beautifulapp::Application.config.secret_key_base = 'ce3a0e5d84e0456ffc57d8c5081bc4fc813f6e1be01aa52766106731d381b379e5827566077e362d329580bba8ea1bdc831467dd54f7e2de1992d1985fc8ea40'
+Beautifulapp::Application.config.secret_key_base = '72a0fe3aa58276c9ef12c3c62b626d803e8f1a3b03694bd2253d986fc67a08956d977daec58f1b317470cc7be48ec7a299c5abd0070e3c2760ef454fdefcd0c8'
