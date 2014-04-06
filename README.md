@@ -7,7 +7,7 @@ Maximizing Dopamine in Task Management since 2014
 
 **Summary**: 
 
-The beautiful board project got started on a sunny spring day in Espoo, Finland. The idea was simple, how can we make the digital Kanban board as interactive and informative as the physical board? But we don’t want to stop there, the goal is to make it so good that it can increase the quality, efficiency and motivation of the whole team. The beautiful board should do what a personal trainer does, or the reason for why Crossfit classes are so popular, motivate you and push you forward to do stuff you didn’t think were possible.
+The beautiful board project got started on a sunny spring day in Espoo, Finland. The idea was simple, how can we make the digital Kanban board as interactive as the physical board? But we don’t want to stop there, the goal is to make it so good that it can increase the quality, efficiency and motivation of the whole team & its efforts. The beautiful board should do what a personal trainer does, or the reason for why Crossfit classes are so popular, motivate you and push you forward to do stuff you didn’t think were possible. In short, push you to do great stuff. 
 
 The main issues that we identified during the start of the project were:
 
