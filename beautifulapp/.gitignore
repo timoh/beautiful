@@ -80,4 +80,4 @@ pickle-email-*.html
 .powenv
 
 # Omniauth keys
-beautifulapp/config/initializers/omniauth.rb
+./config/initializers/omniauth.rb
